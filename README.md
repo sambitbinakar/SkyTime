@@ -1,5 +1,5 @@
 # Skytime
-
+<!-- 
 Tech stack = React+Typescript 
 use the tanstack query for state mangement 
 Open weather Api use for the get real time weather information
@@ -14,4 +14,4 @@ Features:
 2. get realtime weather report
 3. hourly weather report in graphical representaion
 4. 6 day weather forecast
-5. weather deatil like sunrise,sunset , wind direction, pressure 
+5. weather deatil like sunrise,sunset , wind direction, pressure  -->
